@@ -1,0 +1,24 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+
+# Database files
+network_traffic.db
+
+# Generated output
+anomaly_results.png
+
+# Dataset
+synthetic_network_traffic.csv
+
+# Documentation / AI context files
+CLAUDE.md
