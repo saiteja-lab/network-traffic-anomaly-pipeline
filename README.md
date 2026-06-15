@@ -46,7 +46,6 @@ synthetic_network_traffic.csv
 ### Prerequisites
 
 - Python 3.9+
-- A virtual environment at `.venv/`
 
 ### Setup
 
